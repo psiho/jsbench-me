@@ -1,3 +1,5 @@
+![](https://github.com/psiho/jsbench-me/blob/master/images/jsbenchme-logo-100.png)
+
 # jsbench.me - JavaScript performance benchmarking playground
 
 This is a public wiki & issue tracker for [jsbench.me](https://jsbench.me) project.
