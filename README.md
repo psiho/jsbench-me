@@ -17,7 +17,8 @@ Now you can execute and compare  execution speed of different JavaScript code sn
 * Include external libraries through simple `<SCRIPT>` tag in "Setup HTML"
 * Test run in sanboxed Iframe to increase security
 * Test suite versioning
-* Fork
+* Fork test sutes
+* List user's publis test suites
 * Fast and efficient UI built as single page app (Reactjs/Mobx)
 * Reliable and scalable infrastructure, mostly Amazon AWS (Cognito user pool, API Gateway, Lambda, DynamoDB)
 * Fast and efficient UI built as single page app (Reactjs/Mobx)
