@@ -1,5 +1,9 @@
 ![](https://github.com/psiho/jsbench-me/blob/master/images/jsbenchme-logo-100.png)
 
+--------
+Note: complete rewrite of the app is in progress, publishing ETA is July 1st 2020. I'm trying to squeeze in all feature requests and issues from issue tracker. Stay tuned.
+--------
+
 # jsbench.me - JavaScript performance benchmarking playground
 
 This is a public wiki & issue tracker for [jsbench.me](https://jsbench.me) project.
