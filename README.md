@@ -1,16 +1,18 @@
 ![](https://github.com/psiho/jsbench-me/blob/master/images/jsbenchme-logo-100.png)
 
 --------
-Note: complete rewrite of the app is in progress, publishing ETA is July 1st 2020 (dalayed till July 15th!). I'm trying to squeeze in all feature requests and issues from issue tracker. Stay tuned.
+## V1 is out (2020-07-12)! Complete rewrite done. Find more about it in the [ChangeLog](https://github.com/psiho/jsbench-me/wiki/Change-log). Bug reports and feature requests needed!
 --------
 
 # jsbench.me - JavaScript performance benchmarking playground
 
-This is a public wiki & issue tracker for [jsbench.me](https://jsbench.me) project.
+This is a public [Wiki](https://github.com/psiho/jsbench-me/wiki) & [issue tracker](https://github.com/psiho/jsbench-me/issues) for [jsbench.me](https://jsbench.me) project.
 
 Jsbench.me is performance benchmarking playground for JavaScript, heavily inspired and influenced by jsperf.com and jsfiddle.net. It uses Benchmarkjs.com to execute test suites.
 
 Now you can execute and compare  execution speed of different JavaScript code snippets, but also share it and collaborate with others online through simple and short URL.
+
+![screenshot](https://github.com/psiho/jsbench-me/blob/master/images/screenshot-0.2.png)
 
 **Features:**
 
