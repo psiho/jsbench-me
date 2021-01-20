@@ -3,8 +3,6 @@
 --------
 ## With the increasing number of users, hosting costs are also rising. Please conside supporting the project to avoid ads or payed functionalities. Patreon link is on the right. Thanky you!
 --------
-## V1 is out (2020-07-12)! Complete rewrite done. Find more about it in the [ChangeLog](https://github.com/psiho/jsbench-me/wiki/Change-log). Bug reports and feature requests needed!
---------
 
 # jsbench.me - JavaScript performance benchmarking playground
 
