@@ -1,7 +1,7 @@
 ![](https://github.com/psiho/jsbench-me/blob/master/images/jsbenchme-logo-100.png)
 
 --------
-## With the increasing number of users, hosting costs are also rising. Please consider supporting the project to avoid ads or payed functionalities. Patreon link is on the right. Thanky you!
+## With the increasing number of users, hosting costs are also rising. Please consider supporting the project to avoid ads or paid functionalities. Patreon link is on the right. Thank you!
 --------
 
 # jsbench.me - JavaScript performance benchmarking playground
