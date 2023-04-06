@@ -10,7 +10,7 @@ This is a public [Wiki](https://github.com/psiho/jsbench-me/wiki) & [issue track
 
 Jsbench.me is performance benchmarking playground for JavaScript, heavily inspired and influenced by jsperf.com and jsfiddle.net. It uses Benchmarkjs.com to execute test suites.
 
-Now you can execute and compare  execution speed of different JavaScript code snippets, but also share it and collaborate with others online through simple and short URL.
+Now you can execute and compare execution speed of different JavaScript code snippets, but also share it and collaborate with others online through simple and short URL.
 
 ![screenshot](https://github.com/psiho/jsbench-me/blob/master/images/screenshot-0.2.png)
 
@@ -30,5 +30,3 @@ Now you can execute and compare  execution speed of different JavaScript code sn
 * Fast and efficient UI built as single page app (Reactjs/Mobx)
 * Reliable and scalable infrastructure, mostly Amazon AWS (Cognito user pool, API Gateway, Lambda, DynamoDB)
 
-**Important:**
-jsbench.me is currently tested only on latest browsers. I'm working on polishing and testing on different browsers. Your comments and issue reports are very welcomed in this stage!
